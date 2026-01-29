@@ -75,7 +75,7 @@ This project models and simulates a simplified ARMv8-style processor using a sub
 
 ## 📫 Contact
 
-- 📧 Email: sarojshah381@yahoo.com  
+- 📧 Email: engsarojshah@gmail.com 
 - 🔗 LinkedIn: [linkedin.com/in/saroj-s-763265226](https://linkedin.com/in/saroj-s-763265226)
 
 ---
