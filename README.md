@@ -1,7 +1,8 @@
 # masters-arm-datapath
 Master's Project: "Modeling the Execution Engine (Datapath) Portion of an ARM Processor"
 
-📅 **Degree**: M.S. in Electrical and Computer Engineering  
+📅 **Degree**: M.S. in Electrical and Computer Engineering 
+📅 **Course**: Master Project
 🏫 **Institution**: University at Albany, SUNY  
 👨‍🏫 **Advisor**: Professor James R. Moulic  
 🎯 **Goal**: Simulate a simplified LEGv8 5-stage pipelined processor and convert the model into synthesizable VHDL
